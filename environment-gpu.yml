@@ -1,0 +1,24 @@
+name: tahakom-training
+
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - einops
+  - jupyterlab
+  - matplotlib
+  - nbgitpuller
+  - numpy
+  - pip
+  - pip:
+      - -r requirements.txt
+  - python=3.10
+  - pytorch
+  - pytorch-cuda=12.1
+  - scikit-learn
+  - torchvision
+  - tqdm
+  - vit-pytorch
