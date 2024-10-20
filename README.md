@@ -81,5 +81,6 @@ pip install jupyter
 ### Week 3: Beyond the Supervised Training Paradigm
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| 1. Introduction to SSL | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](xx) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](xx) |
+| 1. Introduction to SSL | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/IVUL-KAUST/TahakomTraining/blob/main/Week-3-SSL/Notebooks/Day-1-Intro-SSL/Day1-Intro-SSL-Rotnet.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/IVUL-KAUST/TahakomTraining/blob/main/Week-3-SSL/Notebooks/Day-1-Intro-SSL/Day1-Intro-SSL-Rotnet.ipynb) |
 
+<!-- https://github.com/IVUL-KAUST/TahakomTraining/blob/main/Week-3-SSL/Notebooks/Day-1-Intro-SSL/Day1-Intro-SSL-Rotnet.ipynb -->
