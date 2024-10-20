@@ -74,7 +74,8 @@ pip install jupyter
 |--------------|:------------------------:|:------------------:|
 | 1. Intro: Transformer | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVUL-KAUST/TahakomTraining/blob/main/Week-1-Transformers/Day1-Intro-Transformer.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/IVUL-KAUST/TahakomTraining/blob/main/Week-1-Transformers/Day1-Intro-Transformer.ipynb) |
 | 2. Vision Transformer | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVUL-KAUST/TahakomTraining/blob/main/Week-1-Transformers/Day2-Vision-Transformer.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/IVUL-KAUST/TahakomTraining/blob/main/Week-1-Transformers/Day2-Vision-Transformer.ipynb) |
-| 2. Transformer vs CNN | | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/fuankarion/cifar100competition) |
+| 3. Transformer vs CNN | | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/fuankarion/cifar100competition) |
+| 4. DETR | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_attention.ipynb#scrollTo=frMO0BaCYTEr) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/fuankarion/detr-train) |
 
 
 ### Week 3: Beyond the Supervised Training Paradigm
